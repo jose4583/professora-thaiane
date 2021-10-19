@@ -1,0 +1,44 @@
+body{
+	background: deeppink
+}
+
+.cor{
+	color: skyblue
+}
+
+#foto{
+	width: 50%
+}
+
+#dia{
+	width: 50%
+}
+#principal{
+	font-size: 20px
+}
+#segundo{
+	font-size: 20px;
+	color: #00ffff
+
+}
+.imagem{
+	width: 30%;
+	padding: 0 50px;
+}
+
+ 
+ nav li {
+  display: inline;
+  margin: 0 0 15px 15px;
+ }
+ 
+ 
+ 
+ 
+ 
+nav a {
+color: 00000;
+text-decoration:	
+
+
+}
